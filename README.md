@@ -16,6 +16,7 @@
 * Develop on react server using `npm run dev`
 * Render static site using `npm run build` and build to `out` folder  
 * Run server to test site using`npm run start`.
+* If images are added, removed or changed run `npm run build-images` before running build
 
 ### \<head\>
 * Head of page is in `components | shared | seo.js`
