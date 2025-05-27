@@ -10,6 +10,7 @@
 * react-icons
 * embla-carousel-react
 * sharp (next js image doesn't style images statically)
+* Next MDX
 
 
 ### Launch
