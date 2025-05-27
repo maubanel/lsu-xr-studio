@@ -10,7 +10,8 @@
 * react-icons
 * embla-carousel-react
 * sharp (next js image doesn't style images statically)
-* Next MDX
+* next mdx (and related plugins)
+* gray-matter (to parse frontmatter from mdx and md posts)
 
 
 ### Launch
