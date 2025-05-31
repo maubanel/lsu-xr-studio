@@ -44,6 +44,7 @@
 ### Size
 * Max width of interior of page 1024px
 * Padding left and right 10px
+* 1200 × 675 for social image sizes in meta links
 
 * ### Utilities
 * [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades/?supernova=FDD023&honey-flower=582C83&version=v3)
