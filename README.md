@@ -12,6 +12,7 @@
 * sharp (next js image doesn't style images statically)
 * next mdx (and related plugins)
 * gray-matter (to parse frontmatter from mdx and md posts)
+* react-player (videos)
 
 
 ### Launch
