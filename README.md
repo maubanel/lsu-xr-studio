@@ -41,7 +41,7 @@
 * Address code in main dmae site for dmc & lsu address?
 
 ### Size
-* Max width of interior of page 896px
+* Max width of interior of page 1024px
 * Padding left and right 10px
 
 * ### Utilities
