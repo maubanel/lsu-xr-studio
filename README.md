@@ -14,6 +14,7 @@
 * gray-matter (to parse frontmatter from mdx and md posts)
 * react-player (videos)
 * image-size (dynamically figure out height and width)
+* next-sitemap
 
 
 ### Launch
