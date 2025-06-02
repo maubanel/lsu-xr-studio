@@ -15,6 +15,7 @@
 * react-player (videos)
 * image-size (dynamically figure out height and width)
 * next-sitemap
+* chokidar (json cache of all pages)
 
 
 ### Launch
